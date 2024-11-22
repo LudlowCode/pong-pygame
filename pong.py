@@ -1,5 +1,5 @@
 
-#PONG pygame is funnnnnnnnnnnnnnn
+#PONG pygame is funnnnnnnnnnnnnnnnnnn
 
 import random
 import pygame, sys
